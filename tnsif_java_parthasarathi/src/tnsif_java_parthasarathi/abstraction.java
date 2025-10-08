@@ -1,7 +1,4 @@
 package tnsif_java_parthasarathi;
-
-
-
 abstract class Shape{
 	abstract void draw(); 
 }
